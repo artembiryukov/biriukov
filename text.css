@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+h1{
+	text-align: center;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	font-family: 'Caveat', cursive;
+}
+p{
+	text-align: justify;
+	text-indent: 24px;
+	line-height: 24px;
+}
+figure{
+	border: solid 1px grey;
+	max-width: 220px;
+	padding: 10px;
